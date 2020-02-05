@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Free Pardus
+Description=Free Pardus
+Author=efeyaryukey
+Copyright=(c) 2020, efeyaryukey
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=muhammedfaruk@protonmail.com
+Theme-Id=Free Pardus
+Theme-API=2.0
